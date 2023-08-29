@@ -3,3 +3,4 @@ The Coursera lab project from the course "Introduction to Git and Github". Modul
 
 From the project:
 I am editing the README file. Adding some more details about the project description.
+I'm proud doing this lab.
